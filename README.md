@@ -11,3 +11,4 @@ Generate a consensus table from MACS2 individual
 Firstly, we have to combine all the detected peaks on the **same** *.bed file*
 
 ` bedtools ............. ` 
+This is amazing!
