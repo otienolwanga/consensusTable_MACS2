@@ -1,5 +1,5 @@
 # consensusTable_MACS2
-Generate a consensus table from MACS2 individual 
+Generate a consensus table from MACS2 individual https://mariatsayo.github.io/consensusTable_MACS2/
 
 ## Introduction to the project:
 [MACS2](https://github.com/taoliu/MACS) output includes individual peaks files which are not appropriate for the dowstream analysis e.g.
